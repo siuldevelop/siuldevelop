@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**siuldevelop/siuldevelop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm Luis from Colombia. 
 
-Here are some ideas to get you started:
+👨‍💻 I'm a software engineering with a strong interest in software architecture, best practices, and communication. Experience participating in various web development projects, backend systems, and data-driven solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I'm currently focused on JavaScript, with key skills that allow me to contribute effectively to projects-both personal and professional. I am committed to developing optimized programs that deliver the best results, while also collaborating reliably and effectively within teams as needed. 
+
+## Github Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=siuldevelop&theme=transparent&hide_border=true&border_radius=1&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
