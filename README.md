@@ -8,5 +8,3 @@
 ## Github Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=siuldevelop&theme=transparent&hide_border=true&border_radius=1&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
-
-https://pixel-profile.vercel.app/api/github-stats?username=<siuldevelop>&theme=crt
