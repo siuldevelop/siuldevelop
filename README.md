@@ -1,7 +1,7 @@
 
 # Hello, I'm Luis from Colombia. 
 
-👨‍💻 I'm a software engineering with a strong interest in software architecture, best practices, and communication. Experience participating in various web development projects, backend systems, and data-driven solutions.
+👨‍💻 Software engineering with a strong interest in software architecture, best practices, and communication. Experience participating in various web development projects, backend systems, and data-driven solutions.
 
 - I'm currently focused on JavaScript, with key skills that allow me to contribute effectively to projects-both personal and professional. I am committed to developing optimized programs that deliver the best results, while also collaborating reliably and effectively within teams as needed. 
 
