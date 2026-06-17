@@ -5,9 +5,6 @@
 
 - 👨‍💻 Software engineering with a strong interest in software architecture, best practices, and communication. Experience participating in various web development projects, backend systems, and data-driven solutions.
 
-## Github Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=siuldevelop&theme=transparent&hide_border=true&border_radius=1&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
 ## 💻 Stack 
 
